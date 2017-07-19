@@ -1,0 +1,13 @@
+{
+  "name": "master",
+  "_cacheHeaders": {
+    "ETag": "\"bc9bc3ef0fa72f340938e4c8d6eddb40be170da2\"",
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=trello-board-master.zip"
+  },
+  "_release": "e-tag:bc9bc3ef0",
+  "_source": "https://github.com/slagus/trello-board/archive/master.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/slagus/trello-board/archive/master.zip",
+  "_direct": true
+}
