@@ -14,7 +14,12 @@
 	<body>
 		
 		<div ng-controller="ClbBoardController">
-			<clb-board clb-lists="lists" clb-card-types="cardTypes"></clb-board>
+			<clb-board 
+				clb-lists="lists" 
+				clb-card-types="cardTypes"
+				on-update="cardUpdateCallback(item)"
+				priority-index="priority"
+			></clb-board>
 		</div>
 		
 	</body>
